@@ -1,0 +1,52 @@
+@charset "UTF-8";
+.img {
+
+  padding-top:25px;
+  padding-bottom:30px;
+  margin-left:80px;
+
+}
+.id{
+    margin-left:20px;
+    padding-top:20px;
+
+}
+
+.h3{
+    margin-left:20px;
+    padding-top:20px;
+
+}
+
+.detailstable {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+
+}
+td
+{
+    padding:8px 50px;
+    width:300px;
+
+}
+
+.cell-breakWord {
+   word-wrap: break-word;
+   max-width: 1px;
+
+}
+#text-right{
+  float: right !important;
+}
+
+.nav-link[data-toggle="collapse"]::after {
+  color: #b7b9cc;
+}
+  #sidebarToggle {
+    background-color: #eaecf4;
+  }
+
+  #sidebarToggle::after {
+    color: #b7b9cc;
+  }
